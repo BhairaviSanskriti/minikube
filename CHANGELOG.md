@@ -2845,7 +2845,7 @@ Exciting new improvements:
 * Label minikube nodes [#6717](https://github.com/kubernetes/minikube/pull/6717)
 * Add more Chinese translations [#6813](https://github.com/kubernetes/minikube/pull/6813)
 * Update addon registry 2.6.1 → 2.7.1 [#6707](https://github.com/kubernetes/minikube/pull/6707)
-* Use 'k8s.gcr.io' instead of 'gcr.io/google-containers' [#6908](https://github.com/kubernetes/minikube/pull/6908)
+* Use 'registry.k8s.io' instead of 'gcr.io/google-containers' [#6908](https://github.com/kubernetes/minikube/pull/6908)
 
 Important bug fixes:
 
@@ -4217,7 +4217,7 @@ Huge Thank You for this release to our contributors:
 * Upgrade ingress controller to v0.9.0 [#2292](https://github.com/kubernetes/minikube/pull/2292)
 * Upgrade docker machine to g49dfaa70 [#2299](https://github.com/kubernetes/minikube/pull/2299)
 * Added ingress integration tests [#2254](https://github.com/kubernetes/minikube/pull/2254)
-* Converted image registries to k8s.gcr.io [#2356](https://github.com/kubernetes/minikube/pull/2356)
+* Converted image registries to registry.k8s.io [#2356](https://github.com/kubernetes/minikube/pull/2356)
 * Added cache list command [#2272](https://github.com/kubernetes/minikube/pull/2272)
 * Upgrade to Kubernetes 1.9 [#2343](https://github.com/kubernetes/minikube/pull/2343)
 * [hyperkit] Support NFS Sharing [#2337](https://github.com/kubernetes/minikube/pull/2337)
