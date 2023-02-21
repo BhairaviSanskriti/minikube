@@ -2845,7 +2845,7 @@ Exciting new improvements:
 * Label minikube nodes [#6717](https://github.com/kubernetes/minikube/pull/6717)
 * Add more Chinese translations [#6813](https://github.com/kubernetes/minikube/pull/6813)
 * Update addon registry 2.6.1 → 2.7.1 [#6707](https://github.com/kubernetes/minikube/pull/6707)
-* Use 'registry.k8s.io' instead of 'gcr.io/google-containers' [#6908](https://github.com/kubernetes/minikube/pull/6908)
+* Use 'k8s.gcr.io' instead of 'gcr.io/google-containers' [#6908](https://github.com/kubernetes/minikube/pull/6908)
 
 Important bug fixes:
 
